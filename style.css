@@ -1,0 +1,16 @@
+
+.line-through {
+    text-decoration:line-through;
+    opacity:0.5;
+    color:red;
+}
+
+.none {
+    display:none;
+}
+
+
+.active {
+    background:rgb(92, 31, 31);
+    border:none;
+}
